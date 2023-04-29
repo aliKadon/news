@@ -45,3 +45,4 @@ To generate coverage reports with lcov, run the following command:
 flutter test --coverage && genhtml coverage/lcov.info -o coverage/html
 
 This will generate the coverage report in HTML format in the coverage/html directory.
+# news
