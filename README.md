@@ -46,3 +46,4 @@ flutter test --coverage && genhtml coverage/lcov.info -o coverage/html
 
 This will generate the coverage report in HTML format in the coverage/html directory.
 # news
+# news
