@@ -11,6 +11,7 @@ import 'package:news_app/widgets/main_drawer.dart';
 class MyHomePage extends StatefulWidget {
   String? type;
 
+
   MyHomePage({this.type});
 
   @override
